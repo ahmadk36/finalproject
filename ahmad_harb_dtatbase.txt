@@ -48,3 +48,4 @@ CREATE TABLE `ava_time` (
   `at_Date` date DEFAULT NULL,
   PRIMARY KEY (`at_id`)
 )
+the cvs file ahmad_harb is a data thet you need to import in ava_time
